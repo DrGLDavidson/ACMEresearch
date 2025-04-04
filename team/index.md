@@ -34,17 +34,3 @@ Check back as we will be advertising for a post-doctoral researcher, a field tec
 
 
  {% include section.html background="images/background2_G.jpg" dark=true %}
-
-[//] # (OUR TEAM)
-
-[//] # ({% include section.html %})
-
-[//] # ({% capture content %})
-
-[//] # ({% include figure.html image="images/g_trail.jpg" %})
-[//] # ({% include figure.html image="images/vildan_acar.jpg" %})
-[//] # ({% include figure.html image="images/skull.jpg" %})
-
-[//] # ({% endcapture %})
-
-[//] # ({% include grid.html style="square" content=content %})
