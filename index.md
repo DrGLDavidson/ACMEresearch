@@ -59,7 +59,7 @@ Animals show striking variation in behaviour and cognition—within individuals,
 
 {% capture text %}
 
-Meet the Principal Investigator and the dynamic group of postdocs, research assistants, students, and collaborators driving our research forward—and find out how you can join the team.
+Meet the Principal Investigator and the dynamic group of postdocs, research assistants, students, and collaborators driving our research forward—and find out how you can join the team. **We'll be hiring soon, so watch this space!** 
 
 {%
   include button.html
