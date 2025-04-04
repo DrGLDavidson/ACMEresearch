@@ -41,7 +41,7 @@ OUR TEAM
 
 {% include figure.html image="images/g_trail.jpg" %}
 {% include figure.html image="images/vildan_acar.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/skull.jpg" %}
 
 {% endcapture %}
 
