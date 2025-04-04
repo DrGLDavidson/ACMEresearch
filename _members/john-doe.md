@@ -11,7 +11,7 @@ I'm a second year PhD student, funded by an ARIES DTP. My Phd investigates the i
 
 I was awarded the **Highly Commended Early Career Researcher Poster** prize at the British Ornithologist's Union 2024 Conference.  
 
-# {% include section.html %}
+#{% include section.html %}
 <div style="text-align: center;">
 {% capture content %}
   {% include figure.html image="images/vildan_poster.jpg" %}
