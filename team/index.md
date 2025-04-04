@@ -20,6 +20,7 @@ Our group is inclusive of all races, religions, genders and sexualities. We aim 
 
 # Collaborators
 
+<p align="center">
 [Professor Nicky Clayton](https://www.nickyclayton.com/)  
 [Professor John Quinn](https://www.ucc.ie/en/zooresearch/ucc-zoo-research-people/professorjohnquinn/)  
 [Professor Alex Thornton](https://www.wildcognitionresearch.com/people)  
@@ -27,7 +28,8 @@ Our group is inclusive of all races, religions, genders and sexualities. We aim 
 [Dr Sarah Knowles](https://www.knowleslab.com/)  
 [Dr Josh Firth](https://www.firthnetwork.com/)  
 [Dr Michael Reichert](https://reichertlab.com/)  
-[The late Professor Julie Morand-Ferron](https://www.facetsjournal.com/doi/full/10.1139/facets-2023-0190)  
+[Professor Julie Morand-Ferron, the late)](https://www.facetsjournal.com/doi/full/10.1139/facets-2023-0190)  
+</p>
 
 {% include section.html background="images/background.jpg" dark=true %}
 
@@ -37,7 +39,7 @@ OUR TEAM
 
 {% capture content %}
 
-{% include figure.html image="images/gabrielle_davidson.jpg" %}
+{% include figure.html image="images/g_trail.jpg" %}
 {% include figure.html image="images/vildan_acar.jpg" %}
 {% include figure.html image="images/photo.jpg" %}
 
