@@ -1,9 +1,9 @@
 ---
 ---
 
-# DrGLDavidson's Website
+# FROM MICROBES TO MINDS
 
-From microbes to minds, our research bridges the hidden ecosystems of gut microbiomes with the complexities of animal intelligence.
+Our research bridges the hidden ecosystems of gut microbiomes with the complexities of animal intelligence.
 
 {% include section.html %}
 
@@ -34,7 +34,7 @@ Animals show striking variation in behaviour and cognition—within individuals,
 
 {% capture text %}
 
-Learn more about our diverse research projects, past, current and future. 
+ Our projects span from the field to the lab to the cloud. Dive into our past, present, and emerging projects exploring the evolutionary ecology of the gut microbiome and animal cognition. We combine fieldwork, lab-based techniques, and advanced analytics to tackle big questions—using autonomous data collection, molecular and microbiological methods, next-generation sequencing, and cutting-edge tools in bioinformatics, machine learning, and statistical modelling. 
 
 {%
   include button.html
@@ -59,7 +59,7 @@ Learn more about our diverse research projects, past, current and future.
 
 {% capture text %}
 
-Learn more about the dynamic group of researchers who drive this research, and how to join.
+Meet the Principal Investigator and the dynamic group of postdocs, research assistants, students, and collaborators driving our research forward—and find out how you can join the team.
 
 {%
   include button.html
