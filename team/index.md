@@ -9,8 +9,8 @@ nav:
 
 Our group is inclusive of all races, religions, genders and sexualities. We aim to apply practical solutions to achieve a diverse, accessible and inclusive environment across academia, and we are open to learn more about the difficulties of under-represented groups.    
 
-**We are hiring soon**
-Check back soon as we will be hiring a post-doctoral researcher, a field technician and a lab technician for our upcoming NERC Pushing the Frontiers grant, due to start February 2026. 
+**WE ARE HIRING SOON**  
+Check back as we will be advertising for a post-doctoral researcher, a field technician and a lab technician for an upcoming NERC Pushing the Frontiers grant, due to start February 2026. 
 
 # Current members
 
@@ -30,14 +30,14 @@ Check back soon as we will be hiring a post-doctoral researcher, a field technic
 [Dr Sarah Knowles](https://www.knowleslab.com/)  
 [Dr Josh Firth](https://www.firthnetwork.com/)  
 [Dr Michael Reichert](https://reichertlab.com/)  
-[Professor Julie Morand-Ferron, the late)](https://www.facetsjournal.com/doi/full/10.1139/facets-2023-0190)  
+[Professor Julie Morand-Ferron, the late](https://www.facetsjournal.com/doi/full/10.1139/facets-2023-0190)  
 
 
  {% include section.html background="images/background2_G.jpg" dark=true %}
 
 OUR TEAM
 
-# {% include section.html %}
+<!--# {% include section.html %}
 
 # {% capture content %}
 
@@ -47,4 +47,4 @@ OUR TEAM
 
 # {% endcapture %}
 
-# {% include grid.html style="square" content=content %}
+# {% include grid.html style="square" content=content %}-->
