@@ -16,22 +16,6 @@ Our group is inclusive of all races, religions, genders and sexualities. We aim 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 {% include list.html data="members" component="portrait" filter="role != 'pi'" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
-
-OUR TEAM
-
-{% include section.html %}
-
-{% capture content %}
-
-{% include figure.html image="images/g_trail.jpg" %}
-{% include figure.html image="images/vildan_acar.jpg" %}
-{% include figure.html image="images/skull.jpg" %}
-
-{% endcapture %}
-
-{% include grid.html style="square" content=content %}
-
 # Previous members
 
 # Collaborators
@@ -46,3 +30,18 @@ OUR TEAM
 [Professor Julie Morand-Ferron, the late)](https://www.facetsjournal.com/doi/full/10.1139/facets-2023-0190)  
 
 
+{% include section.html background="images/background2_G.jpg" dark=true %}
+
+# OUR TEAM
+
+{% include section.html %}
+
+# {% capture content %}
+
+# {% include figure.html image="images/g_trail.jpg" %}
+# {% include figure.html image="images/vildan_acar.jpg" %}
+# {% include figure.html image="images/skull.jpg" %}
+
+# {% endcapture %}
+
+{% include grid.html style="square" content=content %}
