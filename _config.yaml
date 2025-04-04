@@ -1,9 +1,9 @@
 # site properties and page defaults
 title: ACME RESEARCH
 subtitle: Animal Cognition and Microbial Ecology Research
-description: From microbes to minds, our research bridges the hidden ecosystems of gut microbiomes with the complexities of animal intelligence
-header: images/background_G.jpeg
-footer: images/background2_G.jpeg
+description: From microbes to minds, our research bridges the hidden ecosystems of gut microbiomes with the complexities of animal intelligence.
+header: images/background_G.jpg
+footer: images/background2_G.jpg
 proofer: false
 
 # site social media and other links
@@ -13,7 +13,7 @@ links:
   google-scholar: Tp907UUAAAAJ
   github: DrGLDavidson
   twitter: GabsDavidson
-  bluesky: drgdavidson
+  bluesky: drgdavidson.bsky.social
 
 ### jekyll settings
 
