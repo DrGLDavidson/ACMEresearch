@@ -1,174 +1,400 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1099/acmi.0.000910.v1
+  title: Faecal metagenomes of great tits and blue tits provide insights into host,
+    diet, pathogens and microbial biodiversity
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Mark J. Pallen
+  - Alise Jany Ponsero
+  - Andrea Telatin
+  - Cara-Jane Moss
+  - David Baker
+  - Darren Heavens
+  - Gabrielle L Davidson
+  publisher: Microbiology Society
+  date: '2024-09-11'
+  link: https://doi.org/g9bzdk
+  orcid: 0000-0001-5663-2662
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1101/2023.12.05.569701
+  title: Unravelling effects of fine-scale changes within wild-bird flocks on sociality
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
+  - C.A. Troisi
+  - J.A. Firth
+  - S.J. Crofts
+  - G.L. Davidson
+  - M.S. Reichert
+  - J.L. Quinn
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  date: '2023-12-06'
+  link: https://doi.org/g9bzdn
+  orcid: 0000-0001-5663-2662
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1111/mec.16919
+  title: 'Individual variation in the avian gut microbiota: The influence of host
+    state and environmental heterogeneity'
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Shane E. Somers
+  - Gabrielle L. Davidson
+  - Crystal N. Johnson
+  - Michael S. Reichert
+  - Jodie M. S. Crane
+  - R. Paul Ross
+  - Catherine Stanton
+  - John L. Quinn
+  publisher: Molecular Ecology
+  date: '2023-03-27'
+  link: https://doi.org/g9bzdp
+  orcid: 0000-0001-5663-2662
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1111/jav.02894
+  title: 'A longitudinal analysis of the growth rate and mass of tail feathers in
+    a great tit population: ontogeny, genetic effects and relationship between both
+    traits'
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
+  - "Iv\xE1n de la Hera"
+  - Michael S. Reichert
+  - Gabrielle L. Davidson
+  - John L. Quinn
+  publisher: Journal of Avian Biology
+  date: '2022-03-08'
+  link: https://doi.org/g9bzdq
+  orcid: 0000-0001-5663-2662
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.anbehav.2022.02.007
+  title: Inhibitory control performance is repeatable over time and across contexts
+    in a wild bird population
+  authors:
+  - Gabrielle L. Davidson
+  - Michael S. Reichert
+  - Jenny R. Coomes
+  - Ipek G. Kulahci
+  - "Iv\xE1n de la Hera"
+  - John L. Quinn
+  publisher: Animal Behaviour
+  date: '2022-05-01'
+  link: https://doi.org/g9bzds
+  orcid: 0000-0001-5663-2662
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/1365-2656.13600
+  title: Inhibitory control, exploration behaviour and manipulated ecological context
+    are associated with foraging flexibility in the great tit
+  authors:
+  - Jenny R. Coomes
+  - Gabrielle L. Davidson
+  - Michael S. Reichert
+  - Ipek G. Kulahci
+  - Camille A. Troisi
+  - John L. Quinn
+  publisher: Journal of Animal Ecology
+  date: '2021-10-24'
+  link: https://doi.org/gv4kpc
+  orcid: 0000-0001-5663-2662
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/1365-2656.13551
+  title: "Cognition and covariance in the producer\u2013scrounger game"
+  authors:
+  - Michael S. Reichert
+  - "Julie Morand\u2010Ferron"
+  - Ipek G. Kulahci
+  - Josh A. Firth
+  - Gabrielle L. Davidson
+  - Sam J. Crofts
+  - John L. Quinn
+  publisher: Journal of Animal Ecology
+  date: '2021-06-29'
+  link: https://doi.org/gkfdb3
+  orcid: 0000-0001-5663-2662
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.04.28.441816
+  title: No reproductive fitness benefits of dear enemy behaviour in a territorial
+    songbird
+  authors:
+  - Michael S. Reichert
+  - Jodie M.S. Crane
+  - Gabrielle L. Davidson
+  - Eileen Dillane
+  - Ipek G. Kulahci
+  - "James O\u2019Neill"
+  - Kees van Oers
+  - Ciara Sexton
+  - John L. Quinn
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  date: '2021-04-29'
+  link: https://doi.org/g9bzdt
+  orcid: 0000-0001-5663-2662
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1111/1365-2656.13428
+  title: "A time\u2010lagged association between the gut microbiome, nestling weight\
+    \ and nestling survival in wild great tits"
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Gabrielle L. Davidson
+  - Shane E. Somers
+  - Niamh Wiley
+  - Crystal N. Johnson
+  - Michael S. Reichert
+  - R. Paul Ross
+  - Catherine Stanton
+  - John L. Quinn
+  publisher: Journal of Animal Ecology
+  date: '2021-02-09'
+  link: https://doi.org/gv7rrw
+  orcid: 0000-0001-5663-2662
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1016/j.anbehav.2021.01.024
+  title: Motivation, accuracy and positive feedback through experience explain innovative
+    problem solving and its repeatability
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
+  - Amy C. Cooke
+  - Gabrielle L. Davidson
+  - Kees van Oers
+  - John L. Quinn
+  publisher: Animal Behaviour
+  date: '2021-04-01'
+  link: https://doi.org/gm4f53
+  orcid: 0000-0001-5663-2662
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.12.16.423008
+  title: Inhibitory control, personality, and manipulated ecological conditions influence
+    foraging plasticity in the great tit
+  authors:
+  - Jenny R. Coomes
+  - Gabrielle L. Davidson
+  - Michael S. Reichert
+  - Ipek G. Kulahci
+  - Camille A. Troisi
+  - John L. Quinn
   publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  date: '2020-12-16'
+  link: https://doi.org/g9bzdw
+  orcid: 0000-0001-5663-2662
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1016/j.tree.2020.06.014
+  title: Identifying Microbiome-Mediated Behaviour in Wild Vertebrates
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Gabrielle L. Davidson
+  - Aura Raulo
+  - Sarah C.L. Knowles
+  publisher: Trends in Ecology &amp; Evolution
+  date: '2020-11-01'
+  link: https://doi.org/g9bzdx
+  orcid: 0000-0001-5663-2662
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1098/rsos.192107
+  title: Multiple factors affect discrimination learning performance, but not between-individual
+    variation, in wild mixed-species flocks of birds
+  authors:
+  - Michael S. Reichert
+  - Sam J. Crofts
+  - Gabrielle L. Davidson
+  - Josh A. Firth
+  - Ipek G. Kulahci
+  - John L. Quinn
+  publisher: Royal Society Open Science
+  date: '2020-04-01'
+  link: https://doi.org/g9bzdz
+  orcid: 0000-0001-5663-2662
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1098/rstb.2017.0286
+  title: The gut microbiome as a driver of individual variation in cognition and functional
+    behaviour
+  authors:
+  - Gabrielle L. Davidson
+  - Amy C. Cooke
+  - Crystal N. Johnson
+  - John L. Quinn
+  publisher: 'Philosophical Transactions of the Royal Society B: Biological Sciences'
+  date: '2018-08-13'
+  link: https://doi.org/gftxwv
+  orcid: 0000-0001-5663-2662
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.11646/zoosymposia.12.1.6
+  title: '&lt;p class="HeadingRunIn"&gt;&lt;strong&gt;What can WE do for urban insect
+    biodiversity? Applying lessons from ecological research&lt;/strong&gt;&lt;/p&gt;'
+  authors:
+  - ALVIN J. HELDEN
+  - GEOFFREY J. MORLEY
+  - GABRIELLE L. DAVIDSON
+  - EDGAR C. TURNER
+  publisher: Zoosymposia
+  date: '2018-03-25'
+  link: https://doi.org/g9bzd3
+  orcid: 0000-0001-5663-2662
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1098/rsos.172218
+  title: Repeatable aversion across threat types is linked with life-history traits
+    but is dependent on how aversion is measured
+  authors:
+  - Gabrielle L. Davidson
+  - Michael S. Reichert
+  - Jodie M. S. Crane
+  - William O'Shea
+  - John L. Quinn
+  publisher: Royal Society Open Science
+  date: '2018-02-01'
+  link: https://doi.org/g9bzd4
+  orcid: 0000-0001-5663-2662
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1098/rsbl.2016.0783
+  title: Evolution of iris colour in relation to cavity nesting and parental care
+    in passerine birds
+  authors:
+  - Gabrielle L. Davidson
+  - Alex Thornton
+  - Nicola S. Clayton
+  publisher: Biology Letters
+  date: '2017-01-01'
+  link: https://doi.org/g9bzd5
+  orcid: 0000-0001-5663-2662
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.anbehav.2015.07.010
+  title: Wild jackdaws, Corvus monedula , recognize individual humans and may respond
+    to gaze direction with defensive behaviour
+  authors:
+  - Gabrielle L. Davidson
+  - Nicola S. Clayton
+  - Alex Thornton
+  publisher: Animal Behaviour
+  date: '2015-10-01'
+  link: https://doi.org/f7sdnw
+  orcid: 0000-0001-5663-2662
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1098/rsbl.2013.1077
+  title: "Salient eyes deter conspecific nest intruders in wild jackdaws (\n     \
+    \       <i>Corvus monedula</i>\n            )"
+  authors:
+  - Gabrielle L. Davidson
+  - Nicola S. Clayton
+  - Alex Thornton
+  publisher: Biology Letters
+  date: '2014-02-01'
+  link: https://doi.org/ggdbk2
+  orcid: 0000-0001-5663-2662
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.anbehav.2013.10.024
+  title: 'Gaze sensitivity: function and mechanisms from sensory and cognitive perspectives'
+  authors:
+  - Gabrielle L. Davidson
+  - Shannon Butler
+  - "Esteban Fern\xE1ndez-Juricic"
+  - Alex Thornton
+  - Nicola S. Clayton
+  publisher: Animal Behaviour
+  date: '2014-01-01'
+  link: https://doi.org/f5nwgs
+  orcid: 0000-0001-5663-2662
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00415-011-6397-y
+  title: Frequency of mutations in the genes associated with hereditary sensory and
+    autonomic neuropathy in a UK cohort
+  authors:
+  - G. L. Davidson
+  - S. M. Murphy
+  - J. M. Polke
+  - M. Laura
+  - M. A. M. Salih
+  - F. Muntoni
+  - J. Blake
+  - S. Brandner
+  - N. Davies
+  - R. Horvath
+  - S. Price
+  - M. Donaghy
+  - M. Roberts
+  - N. Foulds
+  - G. Ramdharry
+  - D. Soler
+  - M. P. Lunn
+  - H. Manji
+  - M. B. Davis
+  - H. Houlden
+  - M. M. Reilly
+  publisher: Journal of Neurology
+  date: '2012-02-01'
+  link: https://doi.org/fxwn6c
+  orcid: 0000-0001-5663-2662
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1136/jnnp-2012-302451
+  title: "Charcot\u2013Marie\u2013Tooth disease: frequency of genetic subtypes and\
+    \ guidelines for genetic testing"
+  authors:
+  - Sinead M Murphy
+  - Matilde Laura
+  - Katherine Fawcett
+  - Amelie Pandraud
+  - Yo-Tsen Liu
+  - Gabrielle L Davidson
+  - Alexander M Rossor
+  - James M Polke
+  - Victoria Castleman
+  - Hadi Manji
+  - Michael P T Lunn
+  - Karen Bull
+  - Gita Ramdharry
+  - Mary Davis
+  - Julian C Blake
+  - Henry Houlden
+  - Mary M Reilly
+  publisher: Journal of Neurology, Neurosurgery &amp; Psychiatry
+  date: '2012-05-10'
+  link: https://doi.org/f323n5
+  orcid: 0000-0001-5663-2662
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1529-8027.2012.00400.x
+  title: "A novel p.Glu175X premature stop mutation in the C\u2010terminal end of\
+    \ HSP27 is a cause of CMT2"
+  authors:
+  - Alexander M. Rossor
+  - Gabrielle L. Davidson
+  - Julian Blake
+  - James M. Polke
+  - "Sin\xE9ad M. Murphy"
+  - Henry Houlden
+  - Amy Innes
+  - Bernadett Kalmar
+  - Linda Greensmith
+  - Mary M. Reilly
+  publisher: Journal of the Peripheral Nervous System
+  date: '2012-06-01'
+  link: https://doi.org/f334q2
+  orcid: 0000-0001-5663-2662
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1136/jnnp.2010.228965
+  title: 'Mutation in FAM134B causing severe hereditary sensory neuropathy: Figure
+    1'
+  authors:
+  - "Sin\xE9ad M Murphy"
+  - Gabrielle L Davidson
+  - Sebastian Brandner
+  - Henry Houlden
+  - Mary M Reilly
+  publisher: Journal of Neurology, Neurosurgery &amp; Psychiatry
+  date: '2010-11-28'
+  link: https://doi.org/fbc6zc
+  orcid: 0000-0001-5663-2662
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -184,9 +410,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -203,21 +426,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
