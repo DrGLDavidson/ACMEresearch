@@ -1,19 +1,19 @@
 # site properties and page defaults
-title: DrGLDavidson
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
-header: images/background.jpg
-footer: images/background.jpg
+title: ACME RESEARCH
+subtitle: Animal Cognition and Microbial Ecology Research
+description: From microbes to minds, our research bridges the hidden ecosystems of gut microbiomes with the complexities of animal intelligence
+header: images/background_G.jpeg
+footer: images/background2_G.jpeg
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@DrGLDavidson.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: gabrielle.davidson@uea.ac.uk
+  orcid: 0000-0001-5663-2662
+  google-scholar: Tp907UUAAAAJ
   github: DrGLDavidson
-  twitter: DrGLDavidson
-  youtube: DrGLDavidson
+  twitter: GabsDavidson
+  bluesky: drgdavidson
 
 ### jekyll settings
 
