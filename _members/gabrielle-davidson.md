@@ -1,6 +1,6 @@
 ---
 name: Gabrielle Davidson
-image: images/photo.jpg
+image: images/g_trail.jpg
 role: principal-investigator
 affiliation: University of East Anglia  University of Cambridge
 aliases:

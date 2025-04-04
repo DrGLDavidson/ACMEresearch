@@ -1,6 +1,6 @@
 ---
 name: Theo Cooper-Tutton
-image: images/photo.jpg
+image: images/skull.jpg
 role: msc
 # links:
 #    twitter: sarahjohnson
