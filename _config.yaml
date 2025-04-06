@@ -39,8 +39,8 @@ collections:
   # generate page for each member
   members:
     output: true
-  # generate page for each post
-  members:
+  # generate page for each past member
+  pastmembers:
     output: true
   # generate page for each post
   posts:
