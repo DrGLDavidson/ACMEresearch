@@ -1,6 +1,7 @@
 ---
 title: Call for citizen scientists
-author: gabrielle-davidson
+author: vildan-acar
+image: urban_gm1.jpg
 tags:
   - biology
 
@@ -18,7 +19,7 @@ Can you collect faecal samples for us during your ringing sessions in urban/non-
 
 {%
   include figure.html
-  image="images/urban_gm1.jpg"
+  image="images/urban_gm1.JPG"
   caption="Details for citizen science call"
 %}
 
@@ -28,7 +29,7 @@ Can you collect faecal samples for us during your ringing sessions in urban/non-
 
 {%
   include figure.html
-  image="images/urban_gm2.jpg"
+  image="images/urban_gm2.JPG"
   caption="Further details"
 %}
 
