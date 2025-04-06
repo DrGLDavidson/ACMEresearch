@@ -1,23 +1,46 @@
-- id: doi:10.1371/journal.pcbi.1007128
+- id: doi:10.1073/pnas.2402352121
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  description: We isolated a bacterial strain from the host and provided it as a dietary supplement. The treatment changed the microbiota and increased the weight of individuals with low microbiota diversity. This provides direct evidence of the role of the microbiota in the ecology and evolution of natural populations and suggests that the strain we isolated has probiotic potential.
+  date: 2024-10-14
+  image: images/pnas.jpg
   buttons:
     - type: manubot
       link: https://greenelab.github.io/meta-review/
     - type: source
       text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
+      link: https://github.com/shan-e-s/NativeStrain
+    - type: media coverage
+      link: https://www.forbes.com/sites/grrlscientist/2024/12/03/wild-birds-health-and-survival-is-affected-by-gut-microbiome/
   tags:
-    - open science
     - collaboration
-  repo: greenelab/meta-review
+  repo: 
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  - id: doi:10.1016/j.cub.2024.06.029
+  type: paper
+  description: Automated feeders with custom-built programs allowed for experimental manipulation of spatiotemporal experiences on an individual-level basis. In the what-where-when memory experiment, after learning individualized temporal feeder rules, the birds demonstrated their ability to recall the “what” (food type), “where” (feeder location), and “when” (time since their initial visit of the day) of previous foraging experiences. In the incidental encoding experiment, the birds showed that they were able to encode and recall incidental spatial information regarding previous foraging experiences.
+  date: 2024-10-14
+  image: images/episodic_like_memory.jpg
+  buttons:
+    - type: media coverage
+      link: https://www.bbc.co.uk/news/articles/ce4qxvxyxy1o
+  tags:
+    
+  repo: 
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.1093/ismejo/wrae078
+  type: paper
+  description: Here, we provide experimental evidence from aquatic pond snails (*Lymnaea stagnalis*) that environmental stressors and the gut microbiota explain host phenotypic plasticity and disrupted covariation among traits.
+  date: 2024-10-14
+  image: images/snail_figure.jpg
+  buttons:
+    - type: source
+      text: Manuscript Source
+      link: https://github.com/DrGLDavidson/lymnaeastagnalis-microbiome
+    - type: media coverage
+      link: https://www.uea.ac.uk/about/news/article/antibiotic-pollution-disrupts-the-gut-microbiome-and-blocks-memory-in-aquatic-snails
+  tags:
+    - collaboration
+    - open science
+  repo: 
+
+
