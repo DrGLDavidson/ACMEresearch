@@ -1,7 +1,7 @@
 ---
 name: Jasmyn Gooding
 image: images/jasmyn_gooding.jpg
-role: phd
+role: msc
 # group: alum
 links:
   
