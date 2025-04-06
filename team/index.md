@@ -21,6 +21,11 @@ Check back as we will be advertising for a post-doctoral researcher, a field tec
 
 # Previous members
 
+{% include section.html %}
+
+{% include list.html data="pastmembers" component="portrait" filter="role == 'pi'" %}
+{% include list.html data="pastmembers" component="portrait" filter="role != 'pi'" %}
+
 # Collaborators
 
 [Professor Nicky Clayton](https://www.nickyclayton.com/)  
