@@ -31,3 +31,5 @@ Can you collect faecal samples for us during your ringing sessions in urban/non-
   image="images/urban_gm2.jpg"
   caption="Further details"
 %}
+
+{% endcapture %}
