@@ -1,9 +1,10 @@
 ---
 title: Call for citizen scientists
 author: vildan-acar
-image: urban_gm1.jpg
+image: urban_gm1.JPG
 tags:
   - biology
+  - data collection
 
 ---
 
