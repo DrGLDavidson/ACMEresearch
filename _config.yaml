@@ -40,6 +40,9 @@ collections:
   members:
     output: true
   # generate page for each post
+  members:
+    output: true
+  # generate page for each post
   posts:
     output: true
 
