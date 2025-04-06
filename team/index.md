@@ -26,6 +26,18 @@ Check back as we will be advertising for a post-doctoral researcher, a field tec
 {% include list.html data="pastmembers" component="portrait" filter="role == 'pi'" %}
 {% include list.html data="pastmembers" component="portrait" filter="role != 'pi'" %}
 
+# Previous grad students  
+
+Jenny Barnard (University of East Anglia, primary Supervisor Edwin Ren) completed her MSc in Computer Science. Thesis title "Smart bird box for autonomous conservation monitoring".
+
+Dr Shane Somers (University College Cork, primary supervisor Prof John Quinn).
+
+Dr Amy Cooke (University College Cork, Ireland, primary supervisor Prof John Quinn). Thesis title: "The role of proximate factors in shaping individual cognitive variation of great tits"
+
+Dr Jenny Coomes (University College Cork, Ireland, primary supervisor Prof John Quinn). Thesis title: "Cognition and personality when deciding what to eat in the great tit".
+
+Callum O’Regan (MSc Galway-Mayo Institute of Technology). Thesis title: "Captive-reared rooks and jackdaws can successfully reintegrate into the wild, but this is not predicted by boldness or social affiliations".
+
 # Collaborators
 
 [Professor Nicky Clayton](https://www.nickyclayton.com/)  

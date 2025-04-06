@@ -1,6 +1,6 @@
 ---
 name: Emily Danby
-image: images/james_davies.jpg
+image: 
 role: phd
 # group: alum
 links:
