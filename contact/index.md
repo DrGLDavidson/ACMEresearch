@@ -7,12 +7,18 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-You can contact me, Dr Gabrielle Davidson, via email. Links to my social media, open source repos, and online curated publication lists are at the footer of this website.   
+Dr Gabrielle Davidson  
+School of Biological Sciences  
+University of East Anglia  
+Norwich, UK  
+NR4 7TJ  
+
+Links to my social media, open source repos, and online curated publication lists are at the footer of this website.   
 
 {%
   include button.html
   type="email"
-  text="gabrielle.davidson(at)uea.ac.uk"
+  text="gabrielle.davidson (at) uea.ac.uk"
   link="gabrielle.davidson@uea.ac.uk"
 %}
 
