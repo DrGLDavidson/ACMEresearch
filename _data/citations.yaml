@@ -442,6 +442,6 @@
   publisher: Proceedings of the National Academy of Sciences
   date: '2024-10-14'
   link: https://doi.org/g9dhjs
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  image: images/pnas.jpg
   plugin: sources.py
   file: sources.yaml
