@@ -9,8 +9,6 @@
     - type: source
       text: Manuscript Source
       link: https://github.com/shan-e-s/NativeStrain
-    - type: media coverage
-      link: https://www.forbes.com/sites/grrlscientist/2024/12/03/wild-birds-health-and-survival-is-affected-by-gut-microbiome/
   tags:
     - collaboration
   repo: 
@@ -21,11 +19,7 @@
   date: 2024-10-14
   image: images/episodic_like_memory.jpg
   buttons:
-    - type: media coverage
-      link: https://www.bbc.co.uk/news/articles/ce4qxvxyxy1o
-  tags:
-    
-    
+  tags:   
   repo: 
 
 - id: doi:10.1093/ismejo/wrae078
@@ -37,8 +31,6 @@
     - type: source
       text: Manuscript Source
       link: https://github.com/DrGLDavidson/lymnaeastagnalis-microbiome
-    - type: media coverage
-      link: https://www.uea.ac.uk/about/news/article/antibiotic-pollution-disrupts-the-gut-microbiome-and-blocks-memory-in-aquatic-snails
   tags:
     - collaboration
     - open science
