@@ -13,7 +13,7 @@
 - title: Cognition in the Wild
   subtitle: why do individuals vary in their intelligence? 
   group: featured
-  image: images/blue_tit_cognition.png
+  image: images/bluetitcognition.png
   link: https://www.cell.com/current-biology/fulltext/S0960-9822(24)00813-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982224008133%3Fshowall%3Dtrue
   description: Our advanced data collection tools have uncovered previously undescribed cognitive abilities in wild birds.
   repo: 
@@ -23,7 +23,7 @@
 
 - title: Revolutionising Gut Microbiome Interventions
   subtitle: using ecologically valid tools
-  image: images/photo.jpg
+  image: images/snailfigure.jpg
   link: https://github.com/
   description: We have used dietary, antibiotic and microbial strain interventions to causally identify how gut microbiomes influence hosts while maintaining ecological validity . 
   repo: greenelab/lab-website-template
@@ -33,7 +33,7 @@
 
 - title: Fitness consequences
   subtitle: How does evolution select for behaioural variation? 
-  image: chick_hatching.jpg
+  image: chickhatching.jpg
   link: https://royalsocietypublishing.org/doi/10.1098/rsos.172218
   description: We study animals in their natural habitat to uncover how variation influences success in a rapidly changing world
   repo: 
