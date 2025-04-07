@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+ Our projects span from the field to the lab to the cloud. Dive into our past, present, and emerging projects exploring the evolutionary ecology of the gut microbiome and animal cognition. We combine fieldwork, lab-based techniques, and advanced analytics to tackle big questions—using autonomous data collection, molecular and microbiological methods, next-generation sequencing, and cutting-edge tools in bioinformatics, machine learning, and statistical modelling. 
 
 {% include tags.html tags="publication, resource, website" %}
 
