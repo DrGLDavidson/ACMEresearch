@@ -1,9 +1,9 @@
 - title: Autonomous Data Collection
-  subtitle: with machine learning
+  subtitle: in the wild
   group: featured
   image: images/autonomous.jpg
   link: https://github.com/
-  description: We use autonomous data collection technology to quantify behaviour and apply machine learning algorithms to detect key behavioural changes of wild birds in real time
+  description: We use autonomous data collection technology to quantify behaviour and apply machine learning algorithms to detect key behavioural changes of wild birds in real time.
   repo: 
   tags:
     - technology
@@ -20,23 +20,27 @@
   tags:
     - publication
     - methods
+    - our vision
 
 - title: Revolutionising Gut Microbiome Interventions
   subtitle: using ecologically valid tools
+  group: featured
   image: images/snailfigure.jpg
-  link: https://github.com/
-  description: We have used dietary, antibiotic and microbial strain interventions to causally identify how gut microbiomes influence hosts while maintaining ecological validity . 
+  link: https://www.pnas.org/doi/10.1073/pnas.2402352121
+  description: We apply dietary, antibiotic and microbial strain interventions to causally identify how gut microbiomes influence hosts while maintaining ecological validity. 
   repo: greenelab/lab-website-template
   tags:
     - resource
     - publication
+    - our vision
 
-- title: Fitness consequences
-  subtitle: How does evolution select for behaioural variation? 
+- title: Survival and life history consequences
+  subtitle: related to behaviour, cognition and the gut microbiome 
   image: chickhatching.jpg
   link: https://royalsocietypublishing.org/doi/10.1098/rsos.172218
-  description: We study animals in their natural habitat to uncover how variation influences success in a rapidly changing world
+  description: We study animals in their natural habitat to uncover how variation influences success in a rapidly changing world.
   repo: 
   tags:
     - publication
+    - methods
 
