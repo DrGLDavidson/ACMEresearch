@@ -1,8 +1,7 @@
 - title: Autonomous Data Collection
   subtitle: in the wild
-  group: featured
   image: images/autonomous.jpg
-  link: https://github.com/
+  link: https://github.com/DrGLDavidson
   description: We use autonomous data collection technology to quantify behaviour and apply machine learning algorithms to detect key behavioural changes of wild birds in real time.
   repo: 
   tags:
