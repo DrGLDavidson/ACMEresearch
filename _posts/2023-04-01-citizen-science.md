@@ -16,22 +16,8 @@ Greetings from the Davidson Lab, University of East Anglia (UEA). Weare reaching
 
 Can you collect faecal samples for us during your ringing sessions in urban/non-urban habitats, including your own garden? We are collecting samples from GRETI nestlings and adults in the spring, and adults in the winter, covering Cambridgeshire and Norfolk.
 
-{% capture col1 %}
-
 {%
   include figure.html
-  image="images/urbangm.jpg"
-  caption="Details for citizen science call"
+  image="images/urbangm_resize.jpg"
+  width="400px"
 %}
-
-{% endcapture %}
-
-{% capture col2 %}
-
-{%
-  include figure.html
-  image="images/urbangm.jpg"
-  caption="Further details"
-%}
-
-{% endcapture %}
