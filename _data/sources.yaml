@@ -4,3 +4,6 @@
 
 - id: doi:10.1099/acmi.0.000910.v1
   image: images/krakenplot.png
+
+  - doi.org/10.1016/j.cub.2024.06.029
+  image: images/episodiclikememory.jpg
