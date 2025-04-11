@@ -2,7 +2,11 @@
 title: Call for citizen scientists
 author: vildan-acar
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 image: imeages/urbangm_resize.jpg
+=======
+image: images/urbangm_resize.jpg
+>>>>>>> Stashed changes
 =======
 image: images/urbangm_resize.jpg
 >>>>>>> Stashed changes
