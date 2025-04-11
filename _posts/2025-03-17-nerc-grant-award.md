@@ -7,7 +7,7 @@ tags:
 - opportunities
 ---
 
-<!-- excerpt start -->I'm excited to announce that I've been awarded a NERC Pushing the Frontiers of Environmental Research grant, titled "**Acquisition of bene cial gut microbes and functional trade-offs in wild avian hosts**", due to begin February 2026. We will be hiring soon, click here for more details. <!-- excerpt end -->
+<!-- excerpt start -->I'm excited to announce that I've been awarded a NERC Pushing the Frontiers of Environmental Research grant, titled "**Acquisition of bene cial gut microbes and functional trade-offs in wild avian hosts**", due to begin February 2026. We'll be hiring soon. <!-- excerpt end -->
 
 I will be leading the project working with Prof Lindsay Hall from the Quadram Institute. This project will pinpoint which microbes drive host fitness, uncover how they shape host phenotypes and resolve why gut microbiomes vary so widely in wildlife.  
   

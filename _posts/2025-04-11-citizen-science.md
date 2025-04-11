@@ -1,14 +1,14 @@
 ---
 title: Call for citizen scientists
 author: vildan-acar
-image: images/urbangm_resize.jpg
+image: images/flyer_2025.jpg
 tags:
   - citizen science
   - data collection
 
 ---
 
-<!-- excerpt start -->Attention Bird Ringers of England! We are collecting samples again, we need your expertise! Click here for more details <!-- excerpt end -->
+<!-- excerpt start -->Attention Bird Ringers of England! We are collecting samples again, we need your expertise! <!-- excerpt end -->
 
 Dear Fellow Bird Ringers,
 
