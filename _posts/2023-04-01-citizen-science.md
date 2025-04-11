@@ -1,14 +1,14 @@
 ---
 title: Call for citizen scientists
 author: vildan-acar
-image: imeages/urbangm_resize.jpg
+image: images/urbangm_resize.jpg
 tags:
   - citizen science
   - data collection
 
 ---
 
-Attention Bird Ringers in Norfolk and Cambridgeshire! Your Expertise Needed for Scientific Research
+<!-- excerpt start -->Attention Bird Ringers in Norfolk and Cambridgeshire! Your Expertise Needed for Scientific Research<!-- excerpt end -->
 
 Dear Fellow Bird Ringers,
 
