@@ -1,6 +1,6 @@
 ---
 name: Emily Danby
-image: 
+image: images/nestbox_oak.jpg
 role: phd
 # group: alum
 links:
