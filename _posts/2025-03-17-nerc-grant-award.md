@@ -13,6 +13,6 @@ I will be leading the project working with Prof Lindsay Hall from the Quadram In
   
   The NERC Pushing the Frontiers scheme funds ambitious, high-risk and high-reward projects looking at ways to help us sustain and benefit from our natural resources, predict and respond to natural hazards and understand environmental change.  
 
-  We will be hiring to fill three positions later this year, please keep an eye out for announcements here and the University of East Anglia job opportunities website. 
+  We will be hiring to fill three positions later this year, please keep an eye out for announcements here and the University of East Anglia job opportunities website.
 
 - Gabrielle 
