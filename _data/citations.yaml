@@ -233,8 +233,9 @@
   date: '2018-08-13'
   link: https://doi.org/gftxwv
   orcid: 0000-0001-5663-2662
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/davidson_2018.jpg
 - id: doi:10.11646/zoosymposia.12.1.6
   title: '&lt;p class="HeadingRunIn"&gt;&lt;strong&gt;What can WE do for urban insect
     biodiversity? Applying lessons from ecological research&lt;/strong&gt;&lt;/p&gt;'
@@ -247,8 +248,9 @@
   date: '2018-03-25'
   link: https://doi.org/g9bzd3
   orcid: 0000-0001-5663-2662
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/helden_2018.jpg
 - id: doi:10.1098/rsos.172218
   title: Repeatable aversion across threat types is linked with life-history traits
     but is dependent on how aversion is measured
@@ -262,8 +264,9 @@
   date: '2018-02-01'
   link: https://doi.org/g9bzd4
   orcid: 0000-0001-5663-2662
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/davidson_2018b.png
 - id: doi:10.1098/rsbl.2016.0783
   title: Evolution of iris colour in relation to cavity nesting and parental care
     in passerine birds
@@ -275,8 +278,9 @@
   date: '2017-01-01'
   link: https://doi.org/g9bzd5
   orcid: 0000-0001-5663-2662
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/davidson_2017b.jpg
 - id: doi:10.1016/j.anbehav.2015.07.010
   title: Wild jackdaws, Corvus monedula , recognize individual humans and may respond
     to gaze direction with defensive behaviour
@@ -288,8 +292,9 @@
   date: '2015-10-01'
   link: https://doi.org/f7sdnw
   orcid: 0000-0001-5663-2662
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/davidson_2015.jpg
 - id: doi:10.1098/rsbl.2013.1077
   title: "Salient eyes deter conspecific nest intruders in wild jackdaws (\n     \
     \       <i>Corvus monedula</i>\n            )"
@@ -301,8 +306,9 @@
   date: '2014-02-01'
   link: https://doi.org/ggdbk2
   orcid: 0000-0001-5663-2662
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/davidson_2014.jpg
 - id: doi:10.1016/j.anbehav.2013.10.024
   title: 'Gaze sensitivity: function and mechanisms from sensory and cognitive perspectives'
   authors:
@@ -315,8 +321,9 @@
   date: '2014-01-01'
   link: https://doi.org/f5nwgs
   orcid: 0000-0001-5663-2662
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/davidson_2013.jpg
 - id: doi:10.1007/s00415-011-6397-y
   title: Frequency of mutations in the genes associated with hereditary sensory and
     autonomic neuropathy in a UK cohort
@@ -373,8 +380,9 @@
   date: '2012-05-10'
   link: https://doi.org/f323n5
   orcid: 0000-0001-5663-2662
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/murphy_2012.jpg
 - id: doi:10.1111/j.1529-8027.2012.00400.x
   title: "A novel p.Glu175X premature stop mutation in the C\u2010terminal end of\
     \ HSP27 is a cause of CMT2"
@@ -393,8 +401,9 @@
   date: '2012-06-01'
   link: https://doi.org/f334q2
   orcid: 0000-0001-5663-2662
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/rossor.jpg
 - id: doi:10.1136/jnnp.2010.228965
   title: 'Mutation in FAM134B causing severe hereditary sensory neuropathy: Figure
     1'
@@ -408,8 +417,9 @@
   date: '2010-11-28'
   link: https://doi.org/fbc6zc
   orcid: 0000-0001-5663-2662
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/murphy_2010.jpg
 - id: doi:10.1073/pnas.2402352121
   title: Manipulating a host-native microbial strain compensates for low microbial
     diversity by increasing weight gain in a wild bird population
