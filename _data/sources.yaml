@@ -6,7 +6,7 @@
   image: images/krakenplot.png
 
 - id: doi:10.1101/2023.12.05.569701
-  image: images/Troisi_2025.jpg
+  image: images/troisi_2025.jpg
 
 - id: doi:10.1111/mec.16919
   image: images/somers_2023.jpg
@@ -16,3 +16,30 @@
 
 - id: doi:10.1016/j.anbehav.2022.02.007
   image: images/davidson_2022.jpg
+
+- id: doi:10.1111/1365-2656.13600
+  image: images/coomes_2022.jpg
+
+- id: doi:10.1111/1365-2656.13551
+  image: images/reichert_2021.jpg
+
+- id: doi:10.1101/2021.04.28.441816
+  image: images/reichert_2021b.png
+
+- id: doi:10.1111/1365-2656.13428
+  image: images/davidson_2021.jpg
+
+- id: doi:10.1016/j.anbehav.2021.01.024
+  image: images/cooke_2020.jpg
+
+- id: doi:10.1101/2020.12.16.423008
+  image: images/coomes_2022.jpg
+
+- id: doi:10.1016/j.tree.2020.06.014
+  image: images/davidson_2020b.png
+
+- id: doi:10.1098/rsos.192107
+  image: images/reichert_2020.jpg
+
+- doi: 10.1038/srep40062
+  image: images/davidson_2017.png
