@@ -449,5 +449,7 @@
   - Lucy G. Cheke
   - Nicola S. Clayton
   link: https://www.nature.com/articles/srep40062
+  publisher: Scientific Reports
+  date: '2017-02-24'
   plugin: sources.py
   file: sources.yaml
