@@ -23,7 +23,7 @@ My research has:
 - Uncovered gut microbiome variation linked to suites of host phenotypes and fitness in wild birds and freshwater molluscs
 - Identified dietary impacts on gut microbiome and cognition in wild birds
 - Described environmental and life-history factors influencing wild bird gut microbiota
-- Produced seminal papers on theoretical frameworks for microbiome-mediated behavior and developed methodological toolkits for inferring mechanisms and causal - relationships in complex wild systems
+- Produced seminal papers on theoretical frameworks for microbiome-mediated behaviour and developed methodological toolkits for inferring mechanisms and causal - relationships in complex wild systems
 
 I love communicating science and engaging with public audiences on wild animal behaviour and conservation, and provide several talks to wildlife groups across England, offer bird ringing demonstrations, and participate in BioBlitz programs. I am passionate about education, and I lecture in behavioural ecology, evolutionary ecology, comparative cognition, research methods and statistics.
 
