@@ -8,6 +8,17 @@
 - id: doi:10.1101/2023.12.05.569701
   image: images/troisi_2025.jpg
 
+- doi: doi:10.1093/ismejo/wrae078
+  image: images/snailfigure.jpg
+  title:'Antibiotic-altered gut microbiota explain host memory plasticity and disrupt pace-of-life covariation for an aquatic snail'
+  authors:
+  - Gabrielle L. Davidson
+  - Ignacio A Cienfuego
+  - Sarah Dalesman
+  link: /https://academic.oup.com/ismej/article/18/1/wrae078/7683888
+  publisher: The Multidisciplinary Journal of Microbial Ecology
+  date: '2024-05-30'
+  
 - id: doi:10.1111/mec.16919
   image: images/somers_2023.jpg
 
