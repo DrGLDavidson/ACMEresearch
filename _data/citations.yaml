@@ -18,24 +18,6 @@
   plugin: sources.py
   file: sources.yaml
   image: images/krakenplot.png
-- id: doi:10.1099/acmi.0.000910.v1
-  title: Faecal metagenomes of great tits and blue tits provide insights into host,
-    diet, pathogens and microbial biodiversity
-  authors:
-  - Mark J. Pallen
-  - Alise Jany Ponsero
-  - Andrea Telatin
-  - Cara-Jane Moss
-  - David Baker
-  - Darren Heavens
-  - Gabrielle L Davidson
-  publisher: Microbiology Society
-  date: '2024-09-11'
-  link: https://doi.org/g9bzdk
-  orcid: 0000-0001-5663-2662
-  plugin: sources.py
-  file: sources.yaml
-  image: images/krakenplot.png
 - id: doi:10.1101/2023.12.05.569701
   title: Unravelling effects of fine-scale changes within wild-bird flocks on sociality
   authors:
@@ -192,23 +174,6 @@
   plugin: sources.py
   file: sources.yaml
   image: images/cooke_2020.jpg
-- id: doi:10.1101/2020.12.16.423008
-  title: Inhibitory control, personality, and manipulated ecological conditions influence
-    foraging plasticity in the great tit
-  authors:
-  - Jenny R. Coomes
-  - Gabrielle L. Davidson
-  - Michael S. Reichert
-  - Ipek G. Kulahci
-  - Camille A. Troisi
-  - John L. Quinn
-  publisher: Cold Spring Harbor Laboratory
-  date: '2020-12-16'
-  link: https://doi.org/g9bzdw
-  orcid: 0000-0001-5663-2662
-  plugin: sources.py
-  file: sources.yaml
-  image: images/coomes_2022.jpg
 - id: doi:10.1016/j.tree.2020.06.014
   title: Identifying Microbiome-Mediated Behaviour in Wild Vertebrates
   authors:
