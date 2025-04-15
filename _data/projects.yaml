@@ -2,7 +2,7 @@
   subtitle: in the wild
   image: images/autonomous.jpg
   link: https://github.com/DrGLDavidson
-  description: We use autonomous data collection technology to quantify behaviour and apply machine learning algorithms to detect key behavioural changes of wild birds in real time.
+  description: Using computerised feeders and nestboxes, we autonomously collect behavioural data from wild birds in real time. These data fuel analyses of individual variation, supported by machine learning and advanced data science.
   repo: 
   tags:
     - technology
@@ -10,7 +10,7 @@
     - methods
 
 - title: Cognition in the Wild
-  subtitle: why do individuals vary in their intelligence? 
+  subtitle: How and why do animals vary in their intelligence? 
   group: featured
   image: images/episodiclikememory.jpg
   link: https://www.cell.com/current-biology/fulltext/S0960-9822(24)00813-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982224008133%3Fshowall%3Dtrue
@@ -24,20 +24,19 @@
 - title: Revolutionising Gut Microbiome Interventions
   subtitle: using ecologically valid tools
   group: featured
-  image: images/snailfigure.jpg
+  image: images/microbial_supplement.JPG
   link: https://www.pnas.org/doi/10.1073/pnas.2402352121
   description: We apply dietary, antibiotic and microbial strain interventions to causally identify how gut microbiomes influence hosts while maintaining ecological validity. 
-  repo: greenelab/lab-website-template
   tags:
     - resource
     - publication
     - our vision
 
-- title: Survival and life history consequences
-  subtitle: related to behaviour, cognition and the gut microbiome 
+- title: Survival and life history
+  subtitle: linking traits to outcomes in the wild 
   image: images/chickhatching.jpg
   link: https://royalsocietypublishing.org/doi/10.1098/rsos.172218
-  description: We study animals in their natural habitat to uncover how variation influences success in a rapidly changing world.
+  description: By studying animals in the wild, we explore how differences in behaviour, cognition, and the gut microbiome shape survival and life history in a changing world.
   repo: 
   tags:
     - publication

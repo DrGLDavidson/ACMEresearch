@@ -12,8 +12,16 @@ School of Biological Sciences
 University of East Anglia  
 Norwich, UK  
 NR4 7TJ  
-
-Links to my social media, open source repos, and online curated publication lists are at the footer of this website.   
+  
+Links to my social media, open source repos, and online curated publication lists are at the footer of this website. 
+Affiliations:  
+[UEA](https://research-portal.uea.ac.uk/en/persons/gabrielle-davidson)  
+[Centre for Microbial Interactions](https://www.cmi-norwich.ac.uk/people/dr-gabrielle-davidson/)  
+  
+**Interested in joining the lab?**  
+To discuss PhD opportunities, please send a CV, brief statement of research interests and how these fit with ACME Research.  
+  
+To discuss Fellowship opportunities, please send a CV, brief statement of research interests and how these fit with ACME Research and the University of East Anglia's Strategy. 
 
 {%
   include button.html
