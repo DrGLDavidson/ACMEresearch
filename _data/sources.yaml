@@ -1,6 +1,19 @@
+- id: doi:10.1099/acmi.0.000910.v2
+  image: images/krakenplot.png
 
 - id: doi:10.1073/pnas.2402352121
   image: images/pnas.jpg
+
+  doi: doi:10.1016/j.cub.2024.06.029
+  image: images/episodiclikememory.jpg
+  title: 'Episodic-like memory in wild free-living blue tits and great tits'
+  authors:
+  - James Davies
+  - Nicky S. Clayton
+  - Gabrielle L. Davidson
+  link: https://linkinghub.elsevier.com/retrieve/pii/S0960-9822(24)00813-3
+  Publisher: Current Biology
+  date: '2024-08-24'
 
 - id: doi:10.1099/acmi.0.000910.v1
   image: images/krakenplot.png
