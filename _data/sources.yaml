@@ -4,7 +4,7 @@
 - id: doi:10.1073/pnas.2402352121
   image: images/pnas.jpg
 
-  doi: doi:10.1016/j.cub.2024.06.029
+- doi: doi:10.1016/j.cub.2024.06.029
   image: images/episodiclikememory.jpg
   title: 'Episodic-like memory in wild free-living blue tits and great tits'
   authors:
