@@ -440,17 +440,32 @@
   file: sources.yaml
   image: images/murphy_2010.jpg
 - id: doi:10.1073/pnas.2402352121
+  title: Manipulating a host-native microbial strain compensates for low microbial
+    diversity by increasing weight gain in a wild bird population
+  authors:
+  - Shane E. Somers
+  - Gabrielle L. Davidson
+  - Philiswa Mbandlwa
+  - Caroline M. McKeon
+  - Catherine Stanton
+  - R. Paul Ross
+  - John L. Quinn
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2024-10-14'
+  link: https://doi.org/g9dhjs
+  image: images/pnas.jpg
+  plugin: sources.py
+  file: sources.yaml
+- doi: doi:10.1016/j.cub.2024.06.029
+  image: images/episodiclikememory.jpg
   title: Episodic-like memory in wild free-living blue tits and great tits
   authors:
   - James Davies
   - Nicky S. Clayton
   - Gabrielle L. Davidson
-  publisher: Proceedings of the National Academy of Sciences
-  date: '2024-08-24'
   link: https://linkinghub.elsevier.com/retrieve/pii/S0960-9822(24)00813-3
-  image: images/episodiclikememory.jpg
-  doi: doi:10.1016/j.cub.2024.06.029
   Publisher: Current Biology
+  date: '2024-08-24'
   plugin: sources.py
   file: sources.yaml
 - doi: doi:10.1093/ismejo/wrae078
