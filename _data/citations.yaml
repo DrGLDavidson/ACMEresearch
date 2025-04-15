@@ -446,6 +446,28 @@
   date: '2024-05-30'
   plugin: sources.py
   file: sources.yaml
+- doi: doi:10.1038/s41598-020-77256-y
+  image: images/problem_solving.png
+  title: Diet induces parallel changes to the gut microbiota and problem solving performance
+    in a wild bird
+  authors:
+  - Gabrielle L. Davidson
+  - Niamg Wiley
+  - Amy C. Cooke
+  - Crystal N. Johnson
+  - Fiona Fouhy
+  - Michael S Reichert
+  - Ivan de la Hera
+  - Jodie M. S. Crane
+  - Ipek G Kulahci
+  - R Paul Ross
+  - Catherine Stanton
+  - John L. Quinn
+  link: https://www.nature.com/articles/s41598-020-77256-y
+  publisher: Scientific Reports
+  date: '2020-11-27'
+  plugin: sources.py
+  file: sources.yaml
 - doi: doi:10.1038/srep40062
   image: images/davidson_2017.png
   title: The development of support intuitions and object causality in juvenile Eurasian
