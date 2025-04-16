@@ -11,7 +11,7 @@ Our research bridges the hidden ecosystems of gut microbiomes with the complexit
 
 {% capture text %}
 
-Animals show striking variation in behaviour and cognition—within individuals, between individuals, and across species. These traits shape how animals interact with their environment and respond to human-driven change. Emerging evidence reveals the gut microbiome as a powerful player in driving this variation. We investigate how individual variation in learning, risk-taking, and behavioural flexibility contributes to ecological success, and under what conditions the gut microbiome mediates phenotypic plasticity in response to environmental change.
+Animals show striking variation in behaviour and cognition, within individuals, between individuals, and across species. These traits shape how animals interact with their environment and respond to human-driven change. Emerging evidence reveals the gut microbiome as a powerful player in driving this variation. We investigate how individual variation in learning, risk-taking, and behavioural flexibility contributes to ecological success, and under what conditions the gut microbiome mediates phenotypic plasticity in response to environmental change.
 
 {%
   include button.html
@@ -34,7 +34,7 @@ Animals show striking variation in behaviour and cognition—within individuals,
 
 {% capture text %}
 
- Our projects span from the field to the lab to the cloud. Dive into our past, present, and emerging projects exploring the evolutionary ecology of the gut microbiome and animal cognition. We combine fieldwork, lab-based techniques, and advanced analytics to tackle big questions—using autonomous data collection, molecular and microbiological methods, next-generation sequencing, and cutting-edge tools in bioinformatics, machine learning, and statistical modelling. 
+ Our projects span from the field to the lab to the cloud. Dive into our past, present, and emerging projects exploring the evolutionary ecology of the gut microbiome and animal cognition. We combine fieldwork, lab-based techniques, and advanced analytics to tackle big questions using autonomous data collection, molecular and microbiological methods, next-generation sequencing, and cutting-edge tools in bioinformatics, machine learning, and statistical modelling. 
 
 {%
   include button.html
@@ -59,7 +59,8 @@ Animals show striking variation in behaviour and cognition—within individuals,
 
 {% capture text %}
 
-Meet the Principal Investigator, **Gabrielle Davidson**, and the dynamic group of postdocs, research assistants, students, and collaborators driving our research forward—and find out how you can join the team. **We'll be hiring soon, so watch this space!** 
+Meet the Principal Investigator, **Gabrielle Davidson**, and the dynamic group of postdocs, research assistants, students, and collaborators driving our research forward—and find out how you can join the team. **We'll be hiring soon, so watch this space!**  
+[**Applications for a fully-funded PhD studentship, is now open for UK students.**](https://biodtp.norwichresearchpark.ac.uk/projects/designing-microbial-interventions-to-study-behavioural-effects-in-wild-birds-davidson_u25dtpr/) 
 
 {%
   include button.html
