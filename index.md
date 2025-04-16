@@ -60,7 +60,7 @@ Animals show striking variation in behaviour and cognition, within individuals, 
 {% capture text %}
 
 Meet the Principal Investigator, **Gabrielle Davidson**, and the dynamic group of postdocs, research assistants, students, and collaborators driving our research forward—and find out how you can join the team. **We'll be hiring soon, so watch this space!**  
-[**Applications for a fully-funded PhD studentship, is now open for UK students.**](https://biodtp.norwichresearchpark.ac.uk/projects/designing-microbial-interventions-to-study-behavioural-effects-in-wild-birds-davidson_u25dtpr/) 
+[**Applications for a fully-funded PhD studentship are now open for UK students.**](https://biodtp.norwichresearchpark.ac.uk/projects/designing-microbial-interventions-to-study-behavioural-effects-in-wild-birds-davidson_u25dtpr/) 
 
 {%
   include button.html
