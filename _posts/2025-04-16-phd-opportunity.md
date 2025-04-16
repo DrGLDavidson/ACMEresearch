@@ -1,7 +1,7 @@
 ---
 title: NRPDTP Studentship now live
-author: vildan-acar
-image: images/advertisement_2025.jpg
+author: gabrielle-davidson
+image: images/advertisement2025.jpg
 tags:
   - opportunity
   - PhD
@@ -20,5 +20,5 @@ Enquiries about the project are welcome, [please contact me, Gabrielle, directly
 
 {%
   include figure.html
-  image="images/advertisement_2025.jpg"
+  image="images/advertisement2025.jpg"
 %}
