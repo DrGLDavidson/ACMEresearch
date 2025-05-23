@@ -2,6 +2,12 @@
 name: William Gough
 image: images/william_gough.jpg
 role: phd
+aliases:
+  - William B Gough
+  - William B. Gough
+  - W.B. Gough
+  - W. B. Gough
+  - W. Gough
 # group: alum
 # links:
 #  twitter: 
