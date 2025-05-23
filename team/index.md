@@ -40,7 +40,7 @@ Callum O’Regan (MSc Galway-Mayo Institute of Technology). Thesis title: "Capti
 
 # Collaborators
 
-[Professor Lindsay Hall](https://www.birmingham.ac.uk/staff/profiles/microbiology-infection/hall-lindsay)
+[Professor Lindsay Hall](https://www.birmingham.ac.uk/staff/profiles/microbiology-infection/hall-lindsay)  
 [Professor Nicky Clayton](https://www.nickyclayton.com/)  
 [Professor John Quinn](https://www.ucc.ie/en/zooresearch/ucc-zoo-research-people/professorjohnquinn/)  
 [Professor Alex Thornton](https://www.wildcognitionresearch.com/people)  
