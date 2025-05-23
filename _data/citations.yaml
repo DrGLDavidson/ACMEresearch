@@ -447,7 +447,7 @@
   plugin: sources.py
   file: sources.yaml
 - doi: doi:10.1017/S0959270924000133
-  image: images/gough_2024.jpg
+  image: images/gough_2024.png
   title: Modelling habitat suitability for the Critically Endangered Manumea or Tooth-billed
     Pigeon Didunculus strigirostris using past and present baselines
   authors:
