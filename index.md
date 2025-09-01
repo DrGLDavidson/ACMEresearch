@@ -34,7 +34,7 @@ Animals show striking variation in behaviour and cognition, within individuals, 
 
 {% capture text %}
 
- Our projects span from the field to the lab to the cloud. Dive into our past, present, and emerging projects exploring the evolutionary ecology of the gut microbiome and animal cognition. We combine fieldwork, lab-based techniques, and advanced analytics to tackle big questions using autonomous data collection, molecular and microbiological methods, next-generation sequencing, and cutting-edge tools in bioinformatics, machine learning, and statistical modelling. 
+ Our projects span the field, lab and the cloud. We combine fieldwork, lab-based techniques, and advanced analytics to tackle big questions exploring the evolutionary ecology of the gut microbiome and animal cognition. Specifically, we use autonomous data collection, molecular and microbiological methods, next-generation sequencing, and cutting-edge tools in bioinformatics, machine learning, and statistical modelling. 
 
 {%
   include button.html
@@ -59,7 +59,7 @@ Animals show striking variation in behaviour and cognition, within individuals, 
 
 {% capture text %}
 
-Meet the Principal Investigator, **Gabrielle Davidson**, and the dynamic group of postdocs, research assistants, students, and collaborators driving our research forward—and find out how you can join the team. **We'll be hiring soon, so watch this space!**  
+Meet the Principal Investigator, **Gabrielle Davidson**, and the dynamic group of postdocs, research assistants, students, and collaborators driving our research forward. Find out how you can join the team. **We'll be hiring soon, so watch this space!**  
 
 {%
   include button.html
