@@ -1,5 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1002/ece3.71565
+  title: "Spatio\u2010Temporal Variation in Diet Among Age and Sex Cohorts of a Model\
+    \ Generalist Bird Species, the Great Tit <scp><i>Parus major</i></scp>: New Insights\
+    \ Revealed by <scp>DNA</scp> Metabarcoding"
+  authors:
+  - J. R. Coomes
+  - J. P. Cuff
+  - M. S. Reichert
+  - G. L. Davidson
+  - W. O. C. Symondson
+  - J. L. Quinn
+  publisher: Ecology and Evolution
+  date: '2025-07-01'
+  link: https://doi.org/g9z5qb
+  orcid: 0000-0001-5663-2662
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1099/acmi.0.000910.v2
   title: Faecal metagenomes of great tits and blue tits provide insights into host,
     diet, pathogens and microbial biodiversity
