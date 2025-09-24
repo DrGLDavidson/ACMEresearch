@@ -3,7 +3,7 @@
 
 # FROM MICROBES TO MINDS
 
-Our research bridges the hidden ecosystems of gut microbiomes with the complexities of animal intelligence.
+Our research bridges the hidden ecosystems of gut microbiomes with the complexities of animal intelligence in natural environments.
 
 {% include section.html %}
 
