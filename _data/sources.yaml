@@ -1,6 +1,9 @@
 - id: doi:10.1099/acmi.0.000910.v2
   image: images/krakenplot.png
 
+- id: doi:10.1002/ece3.71565
+  image: images/coomes_2025.jpg
+
 - id: doi:10.1073/pnas.2402352121
   image: images/pnas.jpg
 
