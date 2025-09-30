@@ -9,8 +9,11 @@ nav:
 
 Our group is inclusive of all races, religions, genders and sexualities. We aim to apply practical solutions to achieve a diverse, accessible and inclusive environment across academia, and we are open to learn more about the difficulties of under-represented groups.    
 
-**WE ARE HIRING SOON**  
-Check back as we will be advertising for a post-doctoral researcher, a field technician and a lab technician for an upcoming NERC Pushing the Frontiers grant, due to start February 2026. 
+**WE ARE HIRING**  
+We are advertising for a Senior Research Associate (postdoc), a Laborary Technician and a Field Technician for an upcoming NERC Pushing the Frontiers grant, due to start February 2026.  
+Apply for [Senior Research Associate](https://vacancies.uea.ac.uk/vacancies/1808/senior-research-associate-ra2354.html), application deadline 31 October 2025.  
+Apply for Laboratory Technician **coming very soon!**  
+Apply for Field Technician **coming in the next couple months**  
 
 # Current members
 
