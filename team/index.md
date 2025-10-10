@@ -15,6 +15,11 @@ Apply for [Senior Research Associate](https://vacancies.uea.ac.uk/vacancies/1808
 Apply for Laboratory Technician **coming very soon!**  
 Apply for Field Technician **coming in the next couple months**  
 
+**FULLY-FUNDED PHD OPPORTUNITY**  
+Join our lab and a diverse cohort of graduate studies through an ARIES Doctoral Training Program. You will investigate [Gut microbiome variation in wild birds: Developmental consequences for host traits and fitness](https://www.uea.ac.uk/course/phd-doctorate/phd-gut-microbiome-variation-in-wild-birds-developmental-consequences-for-host-traits-and-fitness-davidsonueaaries26).  
+Please contact Gabrielle for more details about the research project and what to include in your application.  
+Application deadline 7th January 2026  
+
 # Current members
 
 {% include section.html %}
