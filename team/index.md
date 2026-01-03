@@ -9,12 +9,6 @@ nav:
 
 Our group is inclusive of all races, religions, genders and sexualities. We aim to apply practical solutions to achieve a diverse, accessible and inclusive environment across academia, and we are open to learn more about the difficulties of under-represented groups.    
 
-**WE ARE HIRING**  
-We are advertising for a Senior Research Associate (postdoc), a Laborary Technician and a Field Technician for an upcoming NERC Pushing the Frontiers grant, due to start February 2026.  
-Apply for [Senior Research Associate](https://vacancies.uea.ac.uk/vacancies/1808/senior-research-associate-ra2354.html), application deadline 31 October 2025.  
-Apply for Laboratory Technician **coming very soon!**  
-Apply for Field Technician **coming in the next couple months**  
-
 **FULLY-FUNDED PHD OPPORTUNITY**  
 Join our lab and a diverse cohort of graduate students through an ARIES Doctoral Training Program. You will investigate [Gut microbiome variation in wild birds: Developmental consequences for host traits and fitness](https://www.uea.ac.uk/course/phd-doctorate/phd-gut-microbiome-variation-in-wild-birds-developmental-consequences-for-host-traits-and-fitness-davidsonueaaries26).  
 Please contact Gabrielle for more details about the research project and what to include in your application.  

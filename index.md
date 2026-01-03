@@ -61,10 +61,6 @@ Animals show striking variation in behaviour and cognition, within individuals, 
 
 Meet the Principal Investigator, **Gabrielle Davidson**, and the dynamic group of postdocs, research assistants, students, and collaborators driving our research forward. Find out how you can join the team.  
 
-**We're hiring!**  
-Apply for our [Senior Research Associate](https://vacancies.uea.ac.uk/vacancies/1808/senior-research-associate-ra2354.html) position.  
-Laboratory Technician position will be advertised soon. 
-
 **Fully-funded PhD opportunity!**  
 Apply for [Gut microbiome variation in wild birds: Developmental consequences for host traits and fitness](https://www.uea.ac.uk/course/phd-doctorate/phd-gut-microbiome-variation-in-wild-birds-developmental-consequences-for-host-traits-and-fitness-davidsonueaaries26).  
  
