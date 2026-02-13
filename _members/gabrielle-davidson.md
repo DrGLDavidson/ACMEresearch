@@ -2,7 +2,9 @@
 name: Gabrielle Davidson
 image: images/davidson_2025.jpg
 role: principal-investigator
-affiliation: University of East Anglia  University of Cambridge
+affiliation: |
+  University of East Anglia
+  University of Cambridge (Visitor))
 aliases:
   - G. Davidson
   - G Davidson
