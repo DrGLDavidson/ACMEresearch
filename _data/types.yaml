@@ -10,6 +10,10 @@ postdoc:
   icon: fa-solid fa-glasses
   description: Postdoctoral Researcher
 
+post-doctoral-research-associate:
+  icon: fa-solid fa-glasses
+  description: Post Doctoral Research Associate
+
 phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
@@ -17,6 +21,10 @@ phd:
 msc:
   icon: fa-solid fa-graduation-cap
   description: MSc Student
+
+laboratory-technician:
+  icon: fa-solid fa-flask-vial
+  description: Laboratory Technician
 
 undergrad:
   icon: fa-solid fa-user-graduate
