@@ -21,6 +21,16 @@ header {
     top: 0;
     z-index: 10 !important;
   }
+
+  @media (max-width: $collapse) {
+    .title {
+      font-size: 1.1rem;
+    }
+
+    .subtitle {
+      font-size: 1rem;
+    }
+  }
 }
 
 header a {
@@ -40,11 +50,14 @@ header a {
 
 .logo {
   height: $logo;
+  flex-shrink: 0;
 }
 
 .logo > * {
-  width: unset;
+  width: auto;
   height: 100%;
+  max-width: none;
+  max-height: none;
 }
 
 .title-text {
@@ -164,5 +177,20 @@ header[data-big] {
 
   .subtitle {
     font-size: var(--large);
+  }
+
+  @media (max-width: $collapse) {
+    .logo {
+      height: $logo-big;
+      min-height: $logo-big;
+    }
+
+    .title {
+      font-size: 1.3rem;
+    }
+
+    .subtitle {
+      font-size: 1.05rem;
+    }
   }
 }
