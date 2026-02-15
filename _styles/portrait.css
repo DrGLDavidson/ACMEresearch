@@ -18,6 +18,10 @@
   width: 100px;
 }
 
+.portrait[data-style=wide] {
+  width: 300px;
+}
+
 .portrait[data-style=tiny] {
   flex-direction: row;
   gap: 15px;
