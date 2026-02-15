@@ -1,6 +1,6 @@
 ---
 name: Gabrielle Davidson
-image: images/davidson_2025.jpg
+image: images/website-photo.png
 role: principal-investigator
 affiliation: |
   University of East Anglia
