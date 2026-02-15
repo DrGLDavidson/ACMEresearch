@@ -59,6 +59,7 @@ Callum O’Regan (MSc Galway-Mayo Institute of Technology). Thesis title: "Capti
 
 # Collaborators
 
+<div class="center">
 [Professor Lindsay Hall](https://www.birmingham.ac.uk/staff/profiles/microbiology-infection/hall-lindsay)  
 [Professor Nicky Clayton](https://www.nickyclayton.com/)  
 [Professor John Quinn](https://www.ucc.ie/en/zooresearch/ucc-zoo-research-people/professorjohnquinn/)  
@@ -68,6 +69,7 @@ Callum O’Regan (MSc Galway-Mayo Institute of Technology). Thesis title: "Capti
 [Dr Josh Firth](https://www.firthnetwork.com/)  
 [Dr Michael Reichert](https://reichertlab.com/)  
 [Professor Julie Morand-Ferron](https://www.facetsjournal.com/doi/full/10.1139/facets-2023-0190)  
+</div>
 
 
  {% include section.html background="images/background2_G.jpg" dark=true %}
