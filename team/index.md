@@ -15,6 +15,8 @@ Our group is inclusive of all races, religions, genders and sexualities. We aim 
 
 {% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
 
+{% include section.html %}
+
 {% assign non_pi_members = site.members | where_exp: "item", "item.role != 'pi' and item.role != 'principal-investigator'" | sort: "name" %}
 {% for member in non_pi_members %}
   {%
@@ -33,6 +35,8 @@ Our group is inclusive of all races, religions, genders and sexualities. We aim 
 {% include section.html %}
 
 {% include list.html data="pastmembers" component="portrait" filter="role == 'principal-investigator'" %}
+
+{% include section.html %}
 
 {% assign non_pi_pastmembers = site.pastmembers | where_exp: "item", "item.role != 'pi' and item.role != 'principal-investigator'" | sort: "name" %}
 {% for member in non_pi_pastmembers %}
