@@ -15,9 +15,12 @@ Our group is inclusive of all races, religions, genders and sexualities. We aim 
 
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 {% include list.html data="members" component="portrait" filter="role != 'pi'" %}
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 {% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
@@ -42,9 +45,12 @@ Our group is inclusive of all races, religions, genders and sexualities. We aim 
 
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 {% include list.html data="pastmembers" component="portrait" filter="role == 'pi'" %}
 {% include list.html data="pastmembers" component="portrait" filter="role != 'pi'" %}
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 {% include list.html data="pastmembers" component="portrait" filter="role == 'principal-investigator'" %}
