@@ -11,8 +11,6 @@ Our group is inclusive of all races, religions, genders and sexualities. We aim 
 
 # Current members
 
-{% include section.html %}
-
 {% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" style="wide" %}
 
 {% include section.html %}
@@ -31,8 +29,6 @@ Our group is inclusive of all races, religions, genders and sexualities. We aim 
 {% endfor %}
 
 # Previous members
-
-{% include section.html %}
 
 {% include list.html data="pastmembers" component="portrait" filter="role == 'principal-investigator'" %}
 
