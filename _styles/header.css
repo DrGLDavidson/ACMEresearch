@@ -19,6 +19,11 @@ header {
   }
 }
 
+@media (min-width: 700px) {
+  header:not([data-big]) {
+    padding: 40px 20px;
+  }
+}
 header a {
   color: var(--text);
   text-decoration: none;
