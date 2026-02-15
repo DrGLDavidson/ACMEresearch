@@ -59,16 +59,16 @@ Callum O’Regan (MSc Galway-Mayo Institute of Technology). Thesis title: "Capti
 
 # Collaborators
 
-<div class="center" markdown="1">
-[Professor Lindsay Hall](https://www.birmingham.ac.uk/staff/profiles/microbiology-infection/hall-lindsay)  
-[Professor Nicky Clayton](https://www.nickyclayton.com/)  
-[Professor John Quinn](https://www.ucc.ie/en/zooresearch/ucc-zoo-research-people/professorjohnquinn/)  
-[Professor Alex Thornton](https://www.wildcognitionresearch.com/people)  
-[Dr Sarah Dalesman](https://www.aber.ac.uk/en/ibers/staff-profiles/listing/profile/sad31/)  
-[Dr Sarah Knowles](https://www.knowleslab.com/)  
-[Dr Josh Firth](https://www.firthnetwork.com/)  
-[Dr Michael Reichert](https://reichertlab.com/)  
-[Professor Julie Morand-Ferron](https://www.facetsjournal.com/doi/full/10.1139/facets-2023-0190)  
+<div class="center">
+  <a href="https://www.birmingham.ac.uk/staff/profiles/microbiology-infection/hall-lindsay">Professor Lindsay Hall</a><br>
+  <a href="https://www.nickyclayton.com/">Professor Nicky Clayton</a><br>
+  <a href="https://www.ucc.ie/en/zooresearch/ucc-zoo-research-people/professorjohnquinn/">Professor John Quinn</a><br>
+  <a href="https://www.wildcognitionresearch.com/people">Professor Alex Thornton</a><br>
+  <a href="https://www.aber.ac.uk/en/ibers/staff-profiles/listing/profile/sad31/">Dr Sarah Dalesman</a><br>
+  <a href="https://www.knowleslab.com/">Dr Sarah Knowles</a><br>
+  <a href="https://www.firthnetwork.com/">Dr Josh Firth</a><br>
+  <a href="https://reichertlab.com/">Dr Michael Reichert</a><br>
+  <a href="https://www.facetsjournal.com/doi/full/10.1139/facets-2023-0190">Professor Julie Morand-Ferron</a>
 </div>
 
 
