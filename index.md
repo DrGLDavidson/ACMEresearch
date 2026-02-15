@@ -60,9 +60,6 @@ Animals show striking variation in behaviour and cognition, within individuals, 
 {% capture text %}
 
 Meet the Principal Investigator, **Gabrielle Davidson**, and the dynamic group of postdocs, research assistants, students, and collaborators driving our research forward. Find out how you can join the team.  
-
-**Fully-funded PhD opportunity!**  
-Apply for [Gut microbiome variation in wild birds: Developmental consequences for host traits and fitness](https://www.uea.ac.uk/course/phd-doctorate/phd-gut-microbiome-variation-in-wild-birds-developmental-consequences-for-host-traits-and-fitness-davidsonueaaries26).  
  
 
 {%
