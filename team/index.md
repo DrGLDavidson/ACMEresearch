@@ -13,15 +13,49 @@ Our group is inclusive of all races, religions, genders and sexualities. We aim 
 
 {% include section.html %}
 
+<<<<<<< Updated upstream
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 {% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+=======
+{% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
+
+{% assign non_pi_members = site.members | where_exp: "item", "item.role != 'pi' and item.role != 'principal-investigator'" | sort: "name" %}
+{% for member in non_pi_members %}
+  {%
+    include portrait.html
+    name=member.name
+    image=member.image
+    role=member.role
+    affiliation=member.affiliation
+    links=member.links
+    content=member.content
+  %}
+{% endfor %}
+>>>>>>> Stashed changes
 
 # Previous members
 
 {% include section.html %}
 
+<<<<<<< Updated upstream
 {% include list.html data="pastmembers" component="portrait" filter="role == 'pi'" %}
 {% include list.html data="pastmembers" component="portrait" filter="role != 'pi'" %}
+=======
+{% include list.html data="pastmembers" component="portrait" filter="role == 'principal-investigator'" %}
+
+{% assign non_pi_pastmembers = site.pastmembers | where_exp: "item", "item.role != 'pi' and item.role != 'principal-investigator'" | sort: "name" %}
+{% for member in non_pi_pastmembers %}
+  {%
+    include portrait.html
+    name=member.name
+    image=member.image
+    role=member.role
+    affiliation=member.affiliation
+    links=member.links
+    content=member.content
+  %}
+{% endfor %}
+>>>>>>> Stashed changes
 
 # Previous grad students  
 
