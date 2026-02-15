@@ -33,6 +33,12 @@ header {
   }
 }
 
+@media (min-width: $collapse) {
+  header:not([data-big]) {
+    padding: 40px 20px;
+  }
+}
+
 header a {
   color: var(--text);
   text-decoration: none;
