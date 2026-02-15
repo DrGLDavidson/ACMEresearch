@@ -13,7 +13,7 @@ Our group is inclusive of all races, religions, genders and sexualities. We aim 
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
+{% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" style="wide" %}
 
 {% include section.html %}
 
