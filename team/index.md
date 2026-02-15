@@ -9,11 +9,6 @@ nav:
 
 Our group is inclusive of all races, religions, genders and sexualities. We aim to apply practical solutions to achieve a diverse, accessible and inclusive environment across academia, and we are open to learn more about the difficulties of under-represented groups.    
 
-**FULLY-FUNDED PHD OPPORTUNITY**  
-Join our lab and a diverse cohort of graduate students through an ARIES Doctoral Training Program. You will investigate [Gut microbiome variation in wild birds: Developmental consequences for host traits and fitness](https://www.uea.ac.uk/course/phd-doctorate/phd-gut-microbiome-variation-in-wild-birds-developmental-consequences-for-host-traits-and-fitness-davidsonueaaries26).  
-Please contact Gabrielle for more details about the research project and what to include in your application.  
-Application deadline 7th January 2026  
-
 # Current members
 
 {% include section.html %}
