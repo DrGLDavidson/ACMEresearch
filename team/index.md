@@ -13,23 +13,7 @@ Our group is inclusive of all races, religions, genders and sexualities. We aim 
 
 {% include section.html %}
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-<<<<<<< HEAD
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
-=======
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 {% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
-=======
->>>>>>> 2d6adde74c5ea3bbd4c6da46e2ac8a041402fbae
 
 {% assign non_pi_members = site.members | where_exp: "item", "item.role != 'pi' and item.role != 'principal-investigator'" | sort: "name" %}
 {% for member in non_pi_members %}
@@ -43,32 +27,12 @@ Our group is inclusive of all races, religions, genders and sexualities. We aim 
     content=member.content
   %}
 {% endfor %}
-<<<<<<< HEAD
->>>>>>> Stashed changes
-=======
->>>>>>> 2d6adde74c5ea3bbd4c6da46e2ac8a041402fbae
 
 # Previous members
 
 {% include section.html %}
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-{% include list.html data="pastmembers" component="portrait" filter="role == 'pi'" %}
-<<<<<<< HEAD
-{% include list.html data="pastmembers" component="portrait" filter="role != 'pi'" %}
-=======
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 {% include list.html data="pastmembers" component="portrait" filter="role == 'principal-investigator'" %}
-=======
->>>>>>> 2d6adde74c5ea3bbd4c6da46e2ac8a041402fbae
 
 {% assign non_pi_pastmembers = site.pastmembers | where_exp: "item", "item.role != 'pi' and item.role != 'principal-investigator'" | sort: "name" %}
 {% for member in non_pi_pastmembers %}
@@ -82,10 +46,6 @@ Our group is inclusive of all races, religions, genders and sexualities. We aim 
     content=member.content
   %}
 {% endfor %}
-<<<<<<< HEAD
->>>>>>> Stashed changes
-=======
->>>>>>> 2d6adde74c5ea3bbd4c6da46e2ac8a041402fbae
 
 # Previous grad students  
 
