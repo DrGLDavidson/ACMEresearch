@@ -1,5 +1,5 @@
 ---
-name: Cheun Zhang
+name: Chuen Zhang
 image: images/logo.jpg
 role: post-doctoral-research-associate
 ---
