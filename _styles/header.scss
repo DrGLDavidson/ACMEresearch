@@ -2,6 +2,7 @@
 ---
 
 $logo-big: 240px;
+$logo-big-mobile: $logo-big * 0.8;
 $logo: 42px;
 $big-padding: 100px;
 $collapse: 700px;
@@ -187,8 +188,8 @@ header[data-big] {
 
   @media (max-width: $collapse) {
     .logo {
-      height: $logo-big;
-      min-height: $logo-big;
+      height: $logo-big-mobile;
+      min-height: $logo-big-mobile;
     }
 
     .title {
