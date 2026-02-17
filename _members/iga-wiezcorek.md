@@ -1,6 +1,6 @@
 ---
 name: Iga Wiezcorek
-image: images/iga-wieczorek.jpg
+image: images/iga_wieczorek.jpg
 role: phd
 ---
 
