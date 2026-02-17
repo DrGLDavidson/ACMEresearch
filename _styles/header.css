@@ -161,8 +161,8 @@ header[data-big] .subtitle {
 }
 @media (max-width: 700px) {
   header[data-big] .logo {
-    height: 240px;
-    min-height: 240px;
+    height: 192px;
+    min-height: 192px;
   }
   header[data-big] .title {
     font-size: 1.3rem;
