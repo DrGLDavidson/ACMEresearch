@@ -1,6 +1,7 @@
 ---
 name: Catrina Lloyd
 image: images/c_lloyd.jpg
+image_position: 50% 20%
 role: laboratory-technician
 ---
 
