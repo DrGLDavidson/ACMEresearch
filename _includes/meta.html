@@ -36,6 +36,9 @@
 {% assign jpg = "images/icon.jpg" | file_exists %}
 {% assign icon = png | default: jpg | relative_url %}
 
+{% assign url_icon_jpg = "images/icon_url.jpg" | file_exists %}
+{% assign url_icon = url_icon_jpg | default: icon %}
+
 {% assign jpg = "images/share.jpg" | file_exists %}
 {% assign png = "images/share.png" | file_exists %}
 {% assign share = jpg | default: png | relative_url %}
@@ -49,7 +52,7 @@
 
 <title>{{ fulltitle }}</title>
 
-<link rel="icon" href="{{ icon }}">
+<link rel="icon" href="{{ url_icon }}">
 
 <meta name="title" content="{{ title }}">
 <meta name="description" content="{{ description }}">
