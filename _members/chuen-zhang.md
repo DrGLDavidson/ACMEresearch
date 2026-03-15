@@ -1,5 +1,5 @@
 ---
-name: Chuen Zhang
+name: Chuen Zhang Lee
 image: images/chuen-zhang.png
 role: post-doctoral-research-associate
 ---

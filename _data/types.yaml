@@ -25,6 +25,10 @@ laboratory-technician:
   icon: fa-solid fa-flask-vial
   description: Laboratory Technician
 
+field-technician:
+  icon: fa-solid fa-wrench
+  description: Field Technician
+
 undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
