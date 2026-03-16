@@ -1,7 +1,7 @@
 ---
 name: Ursula Scuderi
 image: images/US_pic.jpg
-image_position: 50% 100%
+image_position: 50% 0%
 role: field-technician
 ---
 
