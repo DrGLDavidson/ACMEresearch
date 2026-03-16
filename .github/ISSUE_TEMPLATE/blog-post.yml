@@ -1,0 +1,72 @@
+name: Blog post submission
+description: Submit a blog post draft without editing repository files directly.
+title: "Blog post: "
+labels:
+  - blog
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form if you want a maintainer to help turn your draft into a pull request.
+
+  - type: input
+    id: title
+    attributes:
+      label: Post title
+      description: The title that should appear on the blog.
+      placeholder: Example post title
+    validations:
+      required: true
+
+  - type: input
+    id: author
+    attributes:
+      label: Author slug
+      description: Use a member slug from the _members folder when possible.
+      placeholder: gabrielle-davidson
+    validations:
+      required: true
+
+  - type: input
+    id: tags
+    attributes:
+      label: Tags
+      description: Comma-separated tags.
+      placeholder: news, media
+    validations:
+      required: true
+
+  - type: textarea
+    id: excerpt
+    attributes:
+      label: Short excerpt
+      description: One or two sentences for the blog listing.
+      placeholder: Add a short summary here.
+    validations:
+      required: true
+
+  - type: textarea
+    id: body
+    attributes:
+      label: Post body
+      description: Markdown is supported.
+      placeholder: Write the full post here.
+    validations:
+      required: true
+
+  - type: input
+    id: image
+    attributes:
+      label: Image path
+      description: Optional repository path such as images/example.jpg.
+      placeholder: images/example.jpg
+    validations:
+      required: false
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes for the maintainer
+      description: Add links, credits, deadlines, or anything else that matters.
+    validations:
+      required: false

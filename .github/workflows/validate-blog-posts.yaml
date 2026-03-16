@@ -1,0 +1,121 @@
+name: validate-blog-posts
+run-name: validate blog post pull request
+
+on:
+  pull_request:
+    types:
+      - opened
+      - reopened
+      - synchronize
+      - edited
+    paths:
+      - "_posts/**"
+      - "images/**"
+      - ".github/blog-post-template.md"
+      - "CONTRIBUTING.md"
+
+permissions:
+  contents: read
+
+jobs:
+  validate-blog-posts:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout pull request branch
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Validate changed blog posts
+        env:
+          BASE_REF: ${{ github.event.pull_request.base.ref }}
+        run: |
+          git fetch origin "$BASE_REF" --depth=1
+
+          python <<'PY'
+          import os
+          import re
+          import subprocess
+          import sys
+          from pathlib import Path
+
+          diff_result = subprocess.run(
+              ["git", "diff", "--name-only", f"origin/{os.environ['BASE_REF']}...HEAD"],
+              check=True,
+              capture_output=True,
+              text=True,
+          )
+
+          changed_files = [
+              line.strip()
+              for line in diff_result.stdout.splitlines()
+              if line.strip()
+          ]
+          changed_posts = [
+              path for path in changed_files
+              if path.startswith("_posts/") and path.endswith(".md")
+          ]
+
+          if not changed_posts:
+              print("No changed blog post files found in this pull request.")
+              sys.exit(0)
+
+          filename_pattern = re.compile(r"^_posts/\d{4}-\d{2}-\d{2}-[a-z0-9-]+\.md$")
+          required_fields = ("title", "author", "tags")
+          errors = []
+
+          for post_path in changed_posts:
+              path = Path(post_path)
+
+              if not filename_pattern.match(post_path):
+                  errors.append(
+                      f"{post_path}: filename must match _posts/YYYY-MM-DD-short-title.md"
+                  )
+
+              if not path.exists():
+                  errors.append(f"{post_path}: file does not exist in the checked out branch")
+                  continue
+
+              text = path.read_text(encoding="utf-8")
+              front_matter_match = re.match(
+                  r"^---\r?\n(.*?)\r?\n---\r?\n(.*)$",
+                  text,
+                  re.DOTALL,
+              )
+              if not front_matter_match:
+                  errors.append(f"{post_path}: front matter must be wrapped in --- delimiters")
+                  continue
+
+              front_matter = front_matter_match.group(1)
+              body = front_matter_match.group(2)
+
+              for field in required_fields:
+                  if not re.search(rf"(?m)^{field}:\s*(\S.*)?$", front_matter):
+                      errors.append(f"{post_path}: missing required front matter field '{field}'")
+
+              has_excerpt_start = "<!-- excerpt start -->" in body
+              has_excerpt_end = "<!-- excerpt end -->" in body
+              if not has_excerpt_start or not has_excerpt_end:
+                  errors.append(
+                      f"{post_path}: excerpt markers '<!-- excerpt start -->' and '<!-- excerpt end -->' are required"
+                  )
+
+              image_match = re.search(r"(?m)^image:\s*([^\n]+)$", front_matter)
+              if image_match:
+                  image_path = image_match.group(1).strip().strip("\"'")
+                  if image_path and not Path(image_path).exists():
+                      errors.append(
+                          f"{post_path}: image path '{image_path}' does not exist in the repository"
+                      )
+
+          if errors:
+              print("Blog post validation failed:\n")
+              for error in errors:
+                  print(f"- {error}")
+              sys.exit(1)
+
+          print("Blog post validation passed for changed post files:")
+          for post_path in changed_posts:
+              print(f"- {post_path}")
+          PY
