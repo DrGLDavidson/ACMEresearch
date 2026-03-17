@@ -27,11 +27,9 @@ All blog post pull requests are reviewed before merge.
 
 ## Submit a draft without editing files
 
-If you do not want to edit Markdown directly, open a GitHub issue using the Blog Post Submission form and provide the text there. A maintainer can turn that into a pull request for review.
+If you do not want to edit Markdown directly, or do not feel confident opening a PR, instead, open a GitHub issue using the Blog Post Submission form and provide the text and image there. A maintainer can turn that into a pull request for review.
 
 ## Review and merge policy
 
 - Contributors should open pull requests against `main`.
 - Pull requests for blog posts are intended for maintainer review.
-- Repository owners should enable branch protection on `main` and require at least one approving review before merge.
-- Repository owners should keep auto-merge disabled unless they explicitly want to use it.
