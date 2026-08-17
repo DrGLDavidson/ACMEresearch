@@ -1,9 +1,50 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1186/s42523-026-00579-0
+  title: 'The elephant (bird) in the room: unknown mechanisms and unresolved impacts
+    of low DNA yields in avian microbiome research'
+  authors:
+  - Kevin D. Kohl
+  - Rindy Anderson
+  - Catherine Andreadis
+  - Marcella D. Baiz
+  - Kasun H. Bodawatta
+  - Felipe Campos-Cerda
+  - Jaime A. Chaves
+  - Anne B. Clark
+  - Maria S. Costantini
+  - Gabrielle L. Davidson
+  - Charli S. Davies
+  - Maurine W. Dietz
+  - Melanie Florkowski
+  - Sarah M. Hird
+  - Jennifer L. Houtz
+  - William H. Karasov
+  - Sarah A. Knutie
+  - Haw Chuan Lim
+  - Nicholas A. Mason
+  - Melissah Rowe
+  - Elizabeth N. Rudzki
+  - Priscilla A. San Juan
+  - Heather R. Skeen
+  - Morgan C. Slevin
+  - Shane Somers
+  - Annie G. West
+  - Sarah F. Worsley
+  - Elin Videvall
+  - Brian K. Trevelline
+  publisher: Animal Microbiome
+  date: '2026-05-18'
+  link: https://doi.org/q7jv
+  orcid: 0000-0001-5663-2662
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1002/ece3.71565
   title: "Spatio\u2010Temporal Variation in Diet Among Age and Sex Cohorts of a Model\
-    \ Generalist Bird Species, the Great Tit <scp><i>Parus major</i></scp>: New Insights\
-    \ Revealed by <scp>DNA</scp> Metabarcoding"
+    \ Generalist Bird Species, the Great Tit\n                    <scp>\n        \
+    \              <i>Parus major</i>\n                    </scp>\n              \
+    \      : New Insights Revealed by\n                    <scp>DNA</scp>\n      \
+    \              Metabarcoding"
   authors:
   - J. R. Coomes
   - J. P. Cuff
