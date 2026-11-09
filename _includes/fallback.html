@@ -1,1 +1,2 @@
-onerror="this.src = '{{ "images/fallback.png" | relative_url }}'; this.onerror = null;"
+{% assign fallback_image = include.image | default: "images/fallback.png" %}
+onerror="this.src = '{{ fallback_image | relative_url }}'; this.onerror = null;"
