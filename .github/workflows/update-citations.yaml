@@ -24,23 +24,23 @@ env:
 
 jobs:
   update-citations:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 15
 
     steps:
       - name: Debug dump
-        uses: crazy-max/ghaction-dump-context@v2
+        uses: crazy-max/ghaction-dump-context@v3.1.0
 
       - name: Checkout branch contents
         if: github.event.action != 'closed'
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           repository: ${{ github.event.pull_request.head.repo.full_name }}
           ref: ${{ github.head_ref }}
 
       - name: Setup Python
         if: github.event.action != 'closed'
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.11"
           cache: "pip"
@@ -62,7 +62,7 @@ jobs:
 
       - name: Commit cache
         if: failure()
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           file_pattern: "**/.cache/**"
           commit_message: "Commit cache"
@@ -70,17 +70,19 @@ jobs:
       - name: Check if citations changed
         if: github.event.action != 'closed'
         id: changed
-        uses: tj-actions/verify-changed-files@v18
-        with:
-          files: |
-            _data/citations.yaml
+        run: |
+          if git diff --quiet -- _data/citations.yaml; then
+            echo "files_changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "files_changed=true" >> "$GITHUB_OUTPUT"
+          fi
 
       - name: Commit updated citations to branch
         if: |
           github.event.action != 'closed' &&
           steps.changed.outputs.files_changed == 'true' &&
           inputs.open-pr != true
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: "Update citations"
 
